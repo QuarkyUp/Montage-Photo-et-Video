@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Icons/Action-view-remove-icon.png</file>
+        <file>Icons/Actions-document-import-icon.png</file>
+        <file>Icons/Actions-document-save-icon.png</file>
+        <file>Icons/Actions-trash-empty-icon.png</file>
+        <file>Icons/Cursor-Select-icon.png</file>
+        <file>Icons/exit.png</file>
+        <file>Icons/grayscale-icon.png</file>
+        <file>Icons/new_file.png</file>
+        <file>Icons/1481087480_gnome-app-install.png</file>
+        <file>Icons/1481087601_editor-image-picture-photo-glyph.png</file>
+        <file>Icons/1481087628_image_add.png</file>
+        <file>Icons/1481087980_document-save.png</file>
+    </qresource>
+</RCC>
